@@ -39,7 +39,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-import org.cyanogenmod.support.R;
+import org.cyanogenmod.support.preference.R;
 
 /**
  * Helpers for checking if a device supports various features.
